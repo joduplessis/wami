@@ -1,0 +1,22 @@
+.text-button {
+    cursor: pointer; 
+    display: flex; 
+    flex-direction: row; 
+    align-items: center; 
+    align-content: center; 
+    justify-content: center;
+}
+
+.text-button span.text {
+    color: #9facbd;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.text-button:hover span.text {
+    color: #96a3b4;
+}
+
+.text-button:hover svg {
+    stroke: #96a3b4;
+}

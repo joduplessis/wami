@@ -1,0 +1,69 @@
+{
+  "name": "wami-ios",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.5.5",
+    "@expo/react-native-action-sheet": "^3.0.3",
+    "apollo-cache-inmemory": "^1.2.6",
+    "apollo-client": "^2.3.7",
+    "apollo-link-http": "^1.5.4",
+    "base-64": "^0.1.0",
+    "buffer": "^5.2.0",
+    "eventemitter3": "^3.1.0",
+    "graphql": "^0.13.2",
+    "graphql-tag": "^2.9.2",
+    "moment": "^2.22.1",
+    "moment-timezone": "^0.5.21",
+    "mqtt": "^2.18.3",
+    "node-pre-gyp": "^0.11.0",
+    "react": "16.3.1",
+    "react-apollo": "^2.1.9",
+    "react-native": "0.55.4",
+    "react-native-background-fetch": "^2.5.6",
+    "react-native-communications": "^2.2.1",
+    "react-native-crypto": "^2.1.2",
+    "react-native-fs": "^2.11.15",
+    "react-native-image-crop-picker": "^0.21.1",
+    "react-native-incall-manager": "^3.2.3",
+    "react-native-indicators": "^0.13.0",
+    "react-native-maps": "^0.21.0",
+    "react-native-onesignal": "^3.2.12",
+    "react-native-os": "^1.2.1",
+    "react-native-pulse": "^1.0.6",
+    "react-native-push-notification": "^3.0.2",
+    "react-native-segmented-control-tab": "^3.4.1",
+    "react-native-sentry": "^0.40.3",
+    "react-native-swiper": "^1.5.14",
+    "react-native-tcp": "^3.3.0",
+    "react-native-udp": "^2.3.1",
+    "react-native-vector-icons": "^4.6.0",
+    "react-native-webrtc": "^1.67.1",
+    "react-navigation": "^2.0.1",
+    "react-redux": "^5.0.7",
+    "realm": "^2.14.2",
+    "redux": "^4.0.0",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.2.0",
+    "rn-fetch-blob": "^0.10.13",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "babel-jest": "22.4.3",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.4.3",
+    "react-test-renderer": "16.3.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/"
+    ]
+  }
+}

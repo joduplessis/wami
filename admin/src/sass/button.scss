@@ -1,0 +1,44 @@
+.button {
+    border-radius: 5px;
+    border: 1px solid #EBEEF5;
+    cursor: pointer;
+    background: #EFF2F7;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+    .button.selected,
+    .button:hover {
+        background: rgb(224, 228, 235);
+    }
+
+    .button .text {
+        color: #909399;
+        color: #3c3c3c; 
+        font-size: 14px;
+        font-weight: 700;
+        text-transform: capitalize;
+    }
+
+    .button:hover .text,
+    .button.selected .text { 
+        color: #3c3c3c; 
+        text-transform: capitalize;
+    }
+    
+    .button svg, { 
+        stroke: #909399; 
+        stroke: #3c3c3c; 
+    }
+
+    .button:hover svg,
+    .button.selected svg { 
+        stroke: #3c3c3c; 
+    }
+    

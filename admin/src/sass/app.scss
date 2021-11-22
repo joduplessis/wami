@@ -1,0 +1,62 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  background: #FAFAFA;
+}
+
+* {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif, 'Nunito',;
+}
+
+.layout {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  flex-direction: row;
+  display: flex;
+}
+
+.group {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+  }
+
+.flexer {
+    flex: 1,
+}
+
+
+p {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+p.success {
+    color: #25D5A1;
+    font-weight: 700;
+}
+
+p.warning {
+    color: #ED4A70;
+    font-weight: 700;
+}
+
+.background_cover {
+    background-size: cover !important;
+}
+
+
+@import 'variables';
+@import 'onboarding';
+@import 'signin';
+@import 'event';
+@import 'nav';
+@import 'button';
+@import 'text-button';
+@import 'table';
+@import 'calendar';

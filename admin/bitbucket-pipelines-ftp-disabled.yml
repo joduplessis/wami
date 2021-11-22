@@ -1,0 +1,14 @@
+###########################################################
+# This is an old file kept for reference for FTP transfer #
+###########################################################
+image: php:7.1.1
+
+pipelines:
+  branches:
+    master:
+      - step:
+          name: Deploy to dev
+          script:
+            - apt-get update
+            - apt-get -qq install git-ftp
+            - git ftp push --user $FTP_USERNAME --passwd $FTP_PASSWORD 41.204.202.45/public_html/backup -vv

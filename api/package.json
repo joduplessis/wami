@@ -1,0 +1,56 @@
+{
+    "name": "malva",
+    "version": "1.0.0",
+    "description": "Malva API",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "babel-node index.js",
+        "start-watch": "nodemon --exec babel-node index.js"
+    },
+    "author": "Jo du Plessis",
+    "license": "ISC",
+    "dependencies": {
+        "@babel/cli": "^7.6.0",
+        "@babel/core": "^7.2.2",
+        "@babel/node": "^7.2.2",
+        "@babel/plugin-proposal-class-properties": "^7.3.0",
+        "@babel/preset-env": "^7.3.1",
+        "@babel/runtime": "^7.6.0",
+        "@sendgrid/mail": "^6.3.1",
+        "apollo-server": "^2.0.0",
+        "apollo-server-hapi": "^2.0.0",
+        "aws-sdk": "^2.333.0",
+        "babel-node": "0.0.1-security",
+        "bcrypt": "^3.0.0",
+        "config": "^2.0.1",
+        "dotenv": "^6.2.0",
+        "good": "^8.1.2",
+        "graphql": "^0.13.2",
+        "hapi": "^17.5.3",
+        "moment": "^2.22.2",
+        "moment-timezone": "^0.5.21",
+        "mongoose": "^5.2.6",
+        "mqtt": "^2.18.8",
+        "nodemon": "^1.18.9",
+        "onesignal-node": "^2.0.1",
+        "otplib": "^10.0.1",
+        "querystring": "^0.2.0",
+        "uuid": "^3.3.2"
+    },
+    "devDependencies": {
+        "@babel/plugin-transform-runtime": "^7.6.0",
+        "babel-watch": "^7.0.0",
+        "husky": "^4.2.3",
+        "prettier": "^2.0.2",
+        "pretty-quick": "^2.0.1"
+    },
+    "husky": {
+        "hooks": {
+            "pre-commit": "pretty-quick --staged"
+        }
+    },
+    "engines": {
+        "node": "9.x"
+    }
+}

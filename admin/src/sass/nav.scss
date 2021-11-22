@@ -1,0 +1,66 @@
+@import 'variables';
+
+.nav {
+  background-color: #151B25;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  padding: 25px 0px 25px 0px;
+  width: 220px;
+  z-index: 204;
+  display: none;
+}
+
+.nav .header {
+    color: #424E5E;
+    font-size: 10px;
+    font-weight: 700;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: none;
+}
+
+.nav a {
+    color: #475669;
+    width: 100%;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 400;
+    padding-bottom: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    justify-content: flex-start;
+}
+
+.nav :last-child {
+    padding-bottom: 0px;
+}
+
+.nav a span {
+    color: #475669;
+    padding-left: 10px;
+    font-size: 13px;
+    flex: 1;
+    display: none;
+}
+
+.nav a.link svg {
+    stroke: #475669;
+    width: 20px;
+    height: 20px;
+}
+
+.nav a.link.active span,
+.nav a.link:hover span {
+    color: white;
+}
+
+.nav a.link.active svg,
+.nav a.link:hover svg {
+    stroke: white;
+}

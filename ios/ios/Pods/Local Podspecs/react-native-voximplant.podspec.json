@@ -1,0 +1,25 @@
+{
+  "name": "react-native-voximplant",
+  "authors": {
+    "Zingaya Inc.": "info@voximplant.com"
+  },
+  "source_files": "ios/*",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/voximplant/react-native-voximplant",
+  "source": {
+    "path": "./ios/"
+  },
+  "summary": "RN voximplant",
+  "version": "1.1.0",
+  "dependencies": {
+    "VoxImplantSDK": [
+      "2.14.2"
+    ],
+    "React": [
+
+    ]
+  }
+}

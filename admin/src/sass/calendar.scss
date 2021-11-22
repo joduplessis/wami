@@ -1,0 +1,15 @@
+@import 'variables';
+
+.marker {
+    position: absolute; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    left: -10px;
+    top: -10px;  
+    border: 2px solid white;
+    background: #0facf3;
+  }
