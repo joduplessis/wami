@@ -198,7 +198,7 @@ class Settings extends React.Component {
 
     calculateAddress() {
         const { lng, lat } = this.state;
-        const key = "AIzaSyAHI1WlKwZ5exlrvSN_XjWaZgn2k4HV0qQ";
+        const key = "..";
         const url = `https://maps.google.com/maps/api/geocode/json?latlng=${lat},${lng}&key=${key}&sensor=false`;
 
         axios
