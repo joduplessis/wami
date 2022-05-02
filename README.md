@@ -13,8 +13,8 @@
 
 ##### Wami consists of:
 
-- Calendar booking React/Mongo app
-- Hapi & GraphQL API
+- HapiJS, GraphQL & MongoDB powered API
+- Calendar booking React app
 - React Native mobile apps
 
 
