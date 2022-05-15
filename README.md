@@ -5,12 +5,12 @@
 > Please note that Wami is not maintained anymore
 
 <p float="left">
-  <img src="https://wami.app/images/screens/01.png" width="18%">
-  <img src="https://wami.app/images/screens/02.png" width="18%">
-  <img src="https://wami.app/images/screens/03.png" width="18%">
-  <img src="https://wami.app/images/screens/04.png" width="18%">
-  <img src="https://wami.app/images/screens/07.png" width="18%">
-  <img src="https://wami.app/images/screens/08.png" width="18%">
+  <img src="https://wami.app/images/screens/01.png" width="17%">
+  <img src="https://wami.app/images/screens/02.png" width="17%">
+  <img src="https://wami.app/images/screens/03.png" width="17%">
+  <img src="https://wami.app/images/screens/04.png" width="17%">
+  <img src="https://wami.app/images/screens/07.png" width="17%">
+  <img src="https://wami.app/images/screens/08.png" width="17%">
 </p>
 
 ##### Wami consists of:
