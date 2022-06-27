@@ -5,13 +5,13 @@
 > Please note that Wami is not maintained anymore
 
 <p float="left">
-  <img src="https://joduplessis.github.io/wami/images/screens/01.png" width="15%">
-  <img src="https://joduplessis.github.io/wami/images/screens/02.png" width="15%">
-  <img src="https://joduplessis.github.io/wami/images/screens/03.png" width="15%">
-  <img src="https://joduplessis.github.io/wami/images/screens/04.png" width="15%">
-  <img src="https://joduplessis.github.io/wami/images/screens/07.png" width="15%">
-  <img src="https://joduplessis.github.io/wami/images/screens/08.png" width="15%">
-  <img src="  https://joduplessis.com/store-images/Wami/01.png" width="15%">
+  <img src="https://joduplessis.github.io/wami/images/screens/01.png" width="12%">
+  <img src="https://joduplessis.github.io/wami/images/screens/02.png" width="12%">
+  <img src="https://joduplessis.github.io/wami/images/screens/03.png" width="12%">
+  <img src="https://joduplessis.github.io/wami/images/screens/04.png" width="12%">
+  <img src="https://joduplessis.github.io/wami/images/screens/07.png" width="12%">
+  <img src="https://joduplessis.github.io/wami/images/screens/08.png" width="12%">
+  <img src="https://joduplessis.com/store-images/Wami/01.png" width="12%">
 </p>
 
 ##### Wami consists of:
