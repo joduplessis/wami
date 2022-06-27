@@ -18,14 +18,16 @@
 ##### Web app
 
 <p float="left">
-  <img src="https://joduplessis.com/store-images/Wami/web01.png" width="12%">
-  <img src="https://joduplessis.com/store-images/Wami/web02.png" width="12%">
-  <img src="https://joduplessis.com/store-images/Wami/web03.png" width="12%">
-  <img src="https://joduplessis.com/store-images/Wami/web04.png" width="12%">
-  <img src="https://joduplessis.com/store-images/Wami/web05.png" width="12%">
-  <img src="https://joduplessis.com/store-images/Wami/web06.png" width="12%">
-  <img src="https://joduplessis.com/store-images/Wami/web07.png" width="12%">
-  <img src="https://joduplessis.com/store-images/Wami/web07.png" width="12%">
+  <img src="https://joduplessis.com/store-images/Wami/web01.png" width="10%">
+  <img src="https://joduplessis.com/store-images/Wami/web02.png" width="10%">
+  <img src="https://joduplessis.com/store-images/Wami/web03.png" width="10%">
+  <img src="https://joduplessis.com/store-images/Wami/web04.png" width="10%">
+  <img src="https://joduplessis.com/store-images/Wami/web05.png" width="10%">
+  <img src="https://joduplessis.com/store-images/Wami/web06.png" width="10%">
+  <img src="https://joduplessis.com/store-images/Wami/web07.png" width="10%">
+  <img src="https://joduplessis.com/store-images/Wami/web08.png" width="10%">
+  <img src="https://joduplessis.com/store-images/Wami/web09.png" width="10%">
+  <img src="https://joduplessis.com/store-images/Wami/web010.png" width="10%">
 </p>
 
 ##### Wami consists of:
