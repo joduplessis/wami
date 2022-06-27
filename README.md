@@ -27,7 +27,7 @@
   <img src="https://joduplessis.com/store-images/Wami/web07.png" width="10%">
   <img src="https://joduplessis.com/store-images/Wami/web08.png" width="10%">
   <img src="https://joduplessis.com/store-images/Wami/web09.png" width="10%">
-  <img src="https://joduplessis.com/store-images/Wami/web010.png" width="10%">
+  <img src="https://joduplessis.com/store-images/Wami/web10.png" width="10%">
 </p>
 
 ##### Wami consists of:
